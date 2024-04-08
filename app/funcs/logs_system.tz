@@ -1,0 +1,62 @@
+iris_start_boot
+if $_iris_cpu_info == 0:
+  ps()
+  kde_irexec()
+else:
+  kill_process_irisboot()
+  kde_system_stop()
+  
+init_process()
+ 
+ find_slots_numbers(){ 
+ 6280 2461
+ 0871 6076
+ 5060 0768
+ 0806 3438
+ 0929 9960
+ 7107 5588
+ 1743 9730
+ 5857 9786
+ 8391 9679
+ 3900 5738
+}
+ end()
+ kill_cums_to_girsl()
+ fs()
+
+ if find_slots_numbers == false:
+  init_second_find_slots()
+  long long==
+  count_all_in(){
+  2963 2597
+  8188 4913
+  9885 3024
+  0768 4753
+  9462 1038
+  2024 9917
+  2464 9770
+  9085 0571
+  6477 6589
+  7282 0172
+}
+else:(dcodetob6)
+  string(psd_rnxim)
+  end()
+ts_find_slots_memory(
+  mov eax0xbb9:
+  code_cpu_to_bae6(cfivew)
+  2255 8100
+  7911 4329
+  8294 1706
+  1004 0059
+  0411 5315
+  5928 0447
+  4098 9154
+  7157 9540
+  4521 2384
+  5872 7738
+  to_end_cpu0()
+  end()
+  kill_process_elisasnchz()
+)
+kill_process_irisboot()
